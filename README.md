@@ -1,4 +1,4 @@
-# 💊 Prescription Parser: Medical NER with CRF
+# 💊 Prescription Parser: Medical NER with CRF [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/95karthik4/Create-a-Prescription-Parser-using-CRF)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Library](https://img.shields.io/badge/Lib-sklearn--crfsuite-orange) ![NLP](https://img.shields.io/badge/Task-Named%20Entity%20Recognition-green)
 
